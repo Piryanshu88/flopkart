@@ -18,7 +18,7 @@ user registration and login, user profile section, add to cart and checkout page
 
 <h2>🌐See Live here 👇</h2>
 
-https://flopkart-online-app.netlify.app/
+https://flopcart-nine.vercel.app/
 
 <h2>Sneak Peek of website</h2>
 
